@@ -21,7 +21,7 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet UnWashed Team")
 print
-print "Yapımcı   : YeazyyTheGreat" \xc4
+print "Yapımcı   : YeazyyTheGreat"
 print "Team   : UnWashed Team"
 print "Github   : github.com/Yeazyyv2"
 print "Discord   : https://discord.com/invite/XyTeBfYV5U"
@@ -32,7 +32,7 @@ ip = raw_input("Hedef IP : ")
 port = input("Port       : ")
 os.system("clear")
 print("\033[93m")
-os.system("figlet DDoSAttack")
+os.system("figlet UnWashed Team")
 print("Team : UnWashed Team")
 print ("\033[92m")
 print "[                    ] 0% "
