@@ -26,7 +26,7 @@ print "Team   : UnWashed Team"
 print "Github   : github.com/Yeazyyv2"
 print "Discord   : https://discord.com/invite/XyTeBfYV5U"
 print "Discord sunucumuza katılarak yeni şeyler öğrenebilirsin <3 "
-print "Note- This Tool An Illegal Tool & It's Only For Educational Purpose.. Use It At Your Own Risk,We'll Be Not Responsible For Kind Of Problems"
+print "Not - Bu Toolda gerçekleştireceğiniz herhangi bir işlemin sorumlusu biz değiliz."
 print
 ip = raw_input("Hedef IP : ")
 port = input("Port       : ")
