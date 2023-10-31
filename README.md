@@ -6,28 +6,26 @@
 <br>
 <h1 align="center" style="color:red">!!Warning!! <h1>
 
-`Note: THIS TOOL IS JUST ONLY FOR EDUCATIONAL PURPOSE..GIVING DDOS ATTACKs WITHOUT SITE OWNER'S PERMISSION IS ILLEGAL.. SO USE IT AT YOUR OWN RISK.. WE'LL BE NOT RESPONSIBLE FOR ANY TYPES OF MISISSUES!!!`
-
 <h1 style="color:red" align="center"> How To Install V-DdoS In Termux</h1>
 
-<p><b>The Tool Installation Process Is Very Easy.. Just Open Your Termux & Type This Provided Commands!!</b></p>
+<p><b>Toolumuzu kurmak gayet basit. Kodlar aşağıda</b></p>
 
 - $ `apt update && apt upgrade`
 - $ `pkg install python`
 - $ `pkg install python2`
 - $ `pkg install git`
 - $ `pkg install figlet`
-- $ `git clone https://www.github.com/T34mV18rs/V-DdoS.git`
-- $ `cd V-DdoS`
-- $ `chmod +x V-DdoS.py`
-- $ `python2 V-DdoS.py`
+- $ `git clone https://github.com/Yeazyyv2/UnWashed-DDoS`
+- $ `cd UnWashed-DDoS`
+- $ `chmod +x ddosattack.py`
+- $ `python2 ddosattack.py`
 
-<p><b>To Run</b></p>
+<p><b>Kurulumdan sonra basit bir şekilde açmak için</b></p>
 
-- $ `cd V-DdoS`
-- $ `python2 V-DdoS.py`
+- $ `cd UnWashed-DDoS`
+- $ `python2 ddosattack.py`
 
-<p><b><i> Your Tool Install & Setup Done!!..Now Go To Google & Search</i></b>`Website IP Finder`<b><i>Now  Open The 1st Wesite & Place Your Target Website Url e.g. www.biribaba.com..</b></i></p>
+<p><b><i> Toolunuzun kurulumu hazır. Tek yapmanız gereken sitenizin veya hedefteki cihazın ip adresini girmek örnek wwww.unwashed.com..</b></i></p>
 
 <p><b><i>After Getting The Website IP , Copy The IP & Come To The Termux.. Now Paste The Target Website IP On</b></i> `Ip Target:` <b><i>& Give The Port Number</b></i> `8080` </p>
 
