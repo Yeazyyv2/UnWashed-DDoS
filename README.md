@@ -1,4 +1,4 @@
-# V-DdoS<h1 style="color:red" align="center">What is V-DdoS tool?</h1>
+# V-DdoS<h1 style="color:red" align="center">UnWashed DDoS Toolu Nedir?</h1>
 <div>
 <p style="color:black"><b><i><u>Distributed Denial Of Service</u></i> (DDoS) attacks are a subclass of denial of service (DoS) attacks. A DDoS attack involves multiple connected online devices, collectively known as a botnet, which are used to overwhelm a target website with fake traffic.</b></p>
 <img src="https://cdn.discordapp.com/attachments/870740780938047520/870740893093724240/20210731_005139.jpg">
@@ -6,9 +6,9 @@
 <br>
 <h1 align="center" style="color:red">!!Warning!! <h1>
 
-<h1 style="color:red" align="center"> How To Install V-DdoS In Termux</h1>
+<h1 style="color:red" align="center"> UnWashed DDoS Toolunu Termuxta Nasıl Kurarım?</h1>
 
-<p><b>Toolumuzu kurmak gayet basit. Kodlar aşağıda</b></p>
+<p><b>Toolumuzu terminalinizden kurmak gayet basit. Kodlar aşağıda</b></p>
 
 - $ `apt update && apt upgrade`
 - $ `pkg install python`
@@ -27,11 +27,9 @@
 
 <p><b><i> Toolunuzun kurulumu hazır. Tek yapmanız gereken sitenizin veya hedefteki cihazın ip adresini girmek örnek wwww.unwashed.com..</b></i></p>
 
-<p><b><i>After Getting The Website IP , Copy The IP & Come To The Termux.. Now Paste The Target Website IP On</b></i> `Ip Target:` <b><i>& Give The Port Number</b></i> `8080` </p>
-
-<p><b> Booom!! Your Ddos Attack Had Been Started...</b> </p>
+<p><b><i>Hedef sitenin veya cihazın IP Adresini aldıktan sonra tekrar terminalinize gelip IP Adresini ve Port'u yapıştırıyorsunuz (Normal Port 8080) daha sonra enter'a basın ve hedefteki IP Adresine atağınız başlayacak.<p><b><i>
 <div>
-<h1 style="color:red" align="center"> About Us </h1>
+<h1 style="color:red" align="center"> Bizim hakkımızda </h1>
 
 <img src="https://cdn.discordapp.com/attachments/870740780938047520/871007159150837820/20210610_164346.jpg">
 
