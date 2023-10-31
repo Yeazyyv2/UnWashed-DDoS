@@ -1,7 +1,7 @@
 # V-DdoS<h1 style="color:red" align="center">UnWashed DDoS Toolu Nedir?</h1>
 <div>
 <p style="color:black"><b><i><u>Distributed Denial Of Service</u></i> (DDoS) attacks are a subclass of denial of service (DoS) attacks. A DDoS attack involves multiple connected online devices, collectively known as a botnet, which are used to overwhelm a target website with fake traffic.</b></p>
-<img src="https://cdn.discordapp.com/attachments/870740780938047520/870740893093724240/20210731_005139.jpg">
+<img src="https://media.discordapp.net/attachments/1160594417632170085/1168926258730643456/CortexBot-1.png?ex=65538a69&is=65411569&hm=74ae03e9c25cec02e3df9751f87f81df343c7104b3ab2577830f34eec8b59b48&">
 <p style="color:80% black"><b>This is a python coded tool for ddos attacks.. you can easily give ddos attacks in your target websites with</b> `Termux` <b>in your Android Device!! Just Follow The Steps And Setup Your Tool!! ( Scroll up for more info) </b> 
 <br>
 <h1 align="center" style="color:red">!Dikkat! Tool tamamen bize aittir ben bu toolun yapımcısı Yeazyy. Bizden izin almadan tool üzerinde değişiklikte bulunmayın! <h1>
