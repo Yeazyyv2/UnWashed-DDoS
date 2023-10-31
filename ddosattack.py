@@ -21,7 +21,7 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet UnWashed Team")
 print
-print "Yapımcı : YeazyyTheGreat"
+print "Yapımcı   : YeazyyTheGreat"
 print "Team   : UnWashed Team"
 print "Github   : github.com/Yeazyyv2"
 print "Discord   : https://discord.com/invite/XyTeBfYV5U"
