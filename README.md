@@ -4,7 +4,7 @@
 <img src="https://cdn.discordapp.com/attachments/870740780938047520/870740893093724240/20210731_005139.jpg">
 <p style="color:80% black"><b>This is a python coded tool for ddos attacks.. you can easily give ddos attacks in your target websites with</b> `Termux` <b>in your Android Device!! Just Follow The Steps And Setup Your Tool!! ( Scroll up for more info) </b> 
 <br>
-<h1 align="center" style="color:red">!Dikkat! Tool tamamen bize aittir ben bu toolun yapımcısı UnWashed Teamden Yeazyy. Bizden izin almadan tool üzerinde değişiklikte bulunmayın! <h1>
+<h1 align="center" style="color:red">!Dikkat! Tool tamamen bize aittir ben bu toolun yapımcısı Yeazyy. Bizden izin almadan tool üzerinde değişiklikte bulunmayın! <h1>
 
 <h1 style="color:red" align="center"> UnWashed DDoS Toolunu Termuxta Nasıl Kurarım?</h1>
 
