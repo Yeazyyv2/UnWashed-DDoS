@@ -4,7 +4,7 @@
 <img src="https://cdn.discordapp.com/attachments/870740780938047520/870740893093724240/20210731_005139.jpg">
 <p style="color:80% black"><b>This is a python coded tool for ddos attacks.. you can easily give ddos attacks in your target websites with</b> `Termux` <b>in your Android Device!! Just Follow The Steps And Setup Your Tool!! ( Scroll up for more info) </b> 
 <br>
-<h1 align="center" style="color:red">!!Warning!! <h1>
+<h1 align="center" style="color:red">!Dikkat! Tool tamamen bize aittir ben bu toolun yapımcısı UnWashed Teamden Yeazyy. Bizden izin almadan tool üzerinde değişiklikte bulunmayın! <h1>
 
 <h1 style="color:red" align="center"> UnWashed DDoS Toolunu Termuxta Nasıl Kurarım?</h1>
 
@@ -35,9 +35,7 @@
 
 <p><b>UnWashed Team farklı kategorilerde farklı faaliyetlerde bulunan geniş çaplı bir discord hack grubudur. Sizin için en iyi kalitede toollar üretmeye çalışıyoruz <3 </b></p>
 
-<p style="color:purple"><b>Connect With Us:</b></p>
-
-``(Tap To Redirect)``
+<p style="color:purple"><b>Bizimle iletişime geçmek için:</b></p>
 
 [![Github](https://img.shields.io/badge/Facebook-FBGroup-blue?style=for-the-badge&logo=facebook)](https://discord.com/invite/XyTeBfYV5U)
 
