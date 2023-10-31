@@ -31,7 +31,7 @@
 <div>
 <h1 style="color:red" align="center"> Bizim hakkımızda </h1>
 
-<img src="https://cdn.discordapp.com/attachments/870740780938047520/871007159150837820/20210610_164346.jpg">
+<img src="https://discord.com/channels/1160592639553454260/1160594417632170085/1168918913539645510">
 
 <p><b>T34m V18rs ( Team Virus ) is a Bangladeshi FB Spamming & Termux Hacker Group..We make working tools for termux..You can reach us by visiting this links.. Thank You So Much For Using Our Tool(s)</b></p>
 
